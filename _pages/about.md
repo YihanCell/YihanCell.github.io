@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.Sc. Applied Statistics Student @<a href='https://www.xjtlu.edu.cn/en'>Xi'an Jiaotong-Liverpool University</a> • Previously @<a href='http://global.jlu.edu.cn'>Jilin University</a>
+subtitle: M.Sc. Applied Statistics Student @<a href='https://www.xjtlu.edu.cn/en'>Xi'an Jiaotong-Liverpool University</a>
 
 profile:
   align: right
@@ -19,11 +19,11 @@ news: true  # includes a list of news items
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Hi, I am a Postgraduate student at XJTLU, in the lab lead by [Xin Liu](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/xin-liu). And I also privileged to be under the supervision of [Yiqiang Wang](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/yiqiang-wang). Before joining XJTLU, I obtained my B.Ec. in Finance from JilinU and received the national scholarship in 2022. 
+Greetings! I am currently pursuing my postgraduate studies at XJTLU, diligently delving into my research in the esteemed lab led by [Xin Liu](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/xin-liu). And I I'm honored to receive additional insightful supervision of [Yiqiang Wang](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/yiqiang-wang). Before joining XJTLU, I graduated with a B.Ec. in Finance from Jilin University and was privileged to be recognized with the national scholarship in 2022.
 
-**Research interest:** scRNA-seq & Molecular dynamics.
+**Research interests:** scRNA-seq & Molecular dynamics.
 
-**Social Contact:** I am actively seeking potential networking opportunities and PhD positions, feel free to contact me by <a href="https://twitter.com/YikhamChan">Twitter <i class="fab fa-twitter"></i></a>, <a href="https://github.com/YihanCell">Github <i class="fab fa-github"></i></a>, and email  <i class="fab fa-email"></i>Y.Chen323 [dot] liverpool.ac.uk.
+**Connect With Me:** I am keen on expanding my professional network, exploring potential collaborations, and seeking prospective PhD positions. For academic discourse, potential opportunities, or simply a chat about our mutual interests, connect with me on <a href="https://twitter.com/YikhamChan">Twitter <i class="fab fa-twitter"></i></a>, <a href="https://github.com/YihanCell">Github <i class="fab fa-github"></i></a>, or drop me an email at Y.Chen323 [AT] liverpool.ac.uk.
 
 
 
