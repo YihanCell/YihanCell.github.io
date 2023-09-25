@@ -10,7 +10,7 @@ email: Y.Chen323@liverpool.ac.uk
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Website of Yihan Chen.
 footer_text: 
-keywords:  Bioinformatics, MD, Biostatistics # add your own keywords or leave empty
+keywords:  Bioinformatics, MD, Biostatistics, DL, ML # add your own keywords or leave empty
 
 lang: en # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: 🧬  # the emoji used as the favicon (alternatively, provide image name in /assets/img/)

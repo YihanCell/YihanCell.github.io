@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: M.Sc. Applied Statistics Student @<a href='https://www.xjtlu.edu.cn/en'>Xi'an Jiaotong-Liverpool University</a>
+subtitle: RA @<a href='https://www.scut.edu.cn/en/'>South China University of Technology</a> & M.Sc. Student @<a href='https://www.xjtlu.edu.cn/en'>Xi'an Jiaotong-Liverpool University</a>
 
 profile:
   align: right
@@ -19,9 +19,9 @@ news: true  # includes a list of news items
 # social: true  # includes social icons at the bottom of the page
 ---
 
-Greetings! I am currently pursuing my postgraduate studies at XJTLU, diligently delving into my research in the esteemed lab led by [Xin Liu](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/xin-liu). And I I'm honored to receive additional insightful supervision of [Yiqiang Wang](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/yiqiang-wang). Before joining XJTLU, I graduated with a B.Ec. in Finance from Jilin University and was privileged to be recognized with the national scholarship in 2022.
+Greetings! I am currently a short-term research assistant & pre-Ph.D. student at School of Food Science and Engineering, [South China University of Technology](https://www.scut.edu.cn/en/). I am privileged to be under the supervision of [Yonghua Wang](https://www.researchgate.net/profile/Yonghua-Wang-2) and am advised by [Bo Ouyang](http://english.cemcs.cas.cn/faculty/principal/index_18794.html?json=http://cemcs.cas.cn/sourcedb_cemcs_cas/en/ywrck/pi/202008/t20200823_5670081.json) & [Charlie Xia](https://orcid.org/0000-0003-0868-1923). I am a postgraduate student at Xi’an Jiaotong-Liverpool University (XJTLU) in collaboration with the University of Liverpool, where I'm engaged in research under [Xin Liu](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/xin-liu)and garner additional insights from [Yiqiang Wang](https://www.xjtlu.edu.cn/en/study/departments/academy-of-pharmacy/academy-staff/academic-staff/staff/yiqiang-wang). Prior to my postgraduate studies, I graduated with a B.Ec. in Finance from Jilin University and was honored with the national scholarship in 2022.
 
-**Research interests:** scRNA-seq & Molecular dynamics.
+**Research interests:** ML/DL in enzyme engineering.
 
 **Connect With Me:** I am keen on expanding my professional network, exploring potential collaborations, and seeking prospective PhD positions. For academic discourse, potential opportunities, or simply a chat about our mutual interests, connect with me on <a href="https://twitter.com/YikhamChan">Twitter <i class="fab fa-twitter"></i></a>, <a href="https://github.com/YihanCell">Github <i class="fab fa-github"></i></a>, or drop me an email at Y.Chen323 [AT] liverpool.ac.uk.
 
