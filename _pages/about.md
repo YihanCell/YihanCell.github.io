@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: RA @<a href='https://www.scut.edu.cn/en/'>SCUT🇨🇳</a> & M.Sc. Student @<a href='https://www.xjtlu.edu.cn/en'>XJTLU/UoLiverpool🇬🇧</a>
+subtitle: RA @<a href='https://www.scut.edu.cn/en/'><b>SCUT</b></a>🇨🇳 & M.Sc. Student @<a href='https://www.xjtlu.edu.cn/en'><b>XJTLU</b></a> / <a href='https://www.liverpool.ac.uk/'><b>UoLiverpool</b></a>🇬🇧
 
 profile:
   align: right
